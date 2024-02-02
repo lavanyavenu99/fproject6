@@ -1,0 +1,9 @@
+<CristalModule ns="rf" name="pp6">
+	<Info>
+		<Description>CRISTAL Module</Description>
+		<Version>${version}</Version>
+	</Info>
+	<ResourceURL>y/resources/</ResourceURL>
+    <Config name="Module.debug">true</Config>
+	<Imports/>
+</CristalModule>
